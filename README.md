@@ -3,7 +3,9 @@
 A React.js app that takes a submitted future date and displays a timer counting down to that date.
 
 ---
+![Screenshot (192)](https://github.com/AlvishVarsani/CountDown_Timer/assets/112803697/c9789741-2f78-4db8-a998-38c731dd5baa)
 
+---
 ## Built With
 * [React.js](https://reactjs.org)
 * [Sass](http://sass-lang.com)
